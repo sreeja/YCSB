@@ -1,2 +1,0 @@
-do?app=auction&op=closeauction&params=auction-a139
-do?app=auction&op=placebid&params=auction-a139,buyer-b12
