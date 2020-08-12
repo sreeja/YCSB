@@ -1,1 +1,1 @@
-do?app=auction1&op=unregisterseller&params=seller-s10
+do?op=unregisterseller&params=seller-s10
