@@ -1,0 +1,5 @@
+do?op=closeauction&params=bid-b1,auction-a1
+do?op=closeauction&params=bid-b2,auction-a5
+do?op=closeauction&params=bid-b3,auction-a9
+do?op=closeauction&params=bid-b4,auction-a12
+do?op=closeauction&params=bid-b5,auction-a18
