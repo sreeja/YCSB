@@ -1,5 +1,5 @@
-[OVERALL], RunTime(ms), 1346
-[OVERALL], Throughput(ops/sec), 0.7429420505200595
+[OVERALL], RunTime(ms), 1769
+[OVERALL], Throughput(ops/sec), 0.5652911249293386
 [TOTAL_GCS_PS_Scavenge], Count, 0
 [TOTAL_GC_TIME_PS_Scavenge], Time(ms), 0
 [TOTAL_GC_TIME_%_PS_Scavenge], Time(%), 0.0
@@ -18,11 +18,11 @@
 [CLEANUP], 95thPercentileLatency(us), 2
 [CLEANUP], 99thPercentileLatency(us), 2
 [UPDATE], Operations, 1
-[UPDATE], AverageLatency(us), 328576.0
-[UPDATE], MinLatency(us), 328448
-[UPDATE], MaxLatency(us), 328703
-[UPDATE], 50thPercentileLatency(us), 328703
-[UPDATE], 90thPercentileLatency(us), 328703
-[UPDATE], 95thPercentileLatency(us), 328703
-[UPDATE], 99thPercentileLatency(us), 328703
+[UPDATE], AverageLatency(us), 844544.0
+[UPDATE], MinLatency(us), 844288
+[UPDATE], MaxLatency(us), 844799
+[UPDATE], 50thPercentileLatency(us), 844799
+[UPDATE], 90thPercentileLatency(us), 844799
+[UPDATE], 95thPercentileLatency(us), 844799
+[UPDATE], 99thPercentileLatency(us), 844799
 [UPDATE], Return=OK, 1
