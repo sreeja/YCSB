@@ -1,0 +1,2 @@
+do?op=removefromlot&params=auction-a6
+do?op=removefromlot&params=auction-a2

@@ -1,0 +1,6 @@
+do?op=removeproduct&params=seller-s1
+do?op=removeproduct&params=seller-s2
+do?op=removeproduct&params=seller-s3
+do?op=removeproduct&params=seller-s4
+do?op=removeproduct&params=seller-s5
+do?op=removeauction&params=auction-a3
