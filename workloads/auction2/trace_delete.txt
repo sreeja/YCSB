@@ -1,1 +1,1 @@
-do?op=unregisterbuyer&params=buyer-b10
+do?op=unregisterbuyer&params=buyer-b5

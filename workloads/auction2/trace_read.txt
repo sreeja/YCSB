@@ -8,13 +8,3 @@ do?op=closeauction&params=auction-a7
 do?op=closeauction&params=auction-a8
 do?op=closeauction&params=auction-a9
 do?op=closeauction&params=auction-a10
-do?op=closeauction&params=auction-a11
-do?op=closeauction&params=auction-a12
-do?op=closeauction&params=auction-a13
-do?op=closeauction&params=auction-a14
-do?op=closeauction&params=auction-a15
-do?op=closeauction&params=auction-a16
-do?op=closeauction&params=auction-a17
-do?op=closeauction&params=auction-a18
-do?op=closeauction&params=auction-a19
-do?op=closeauction&params=auction-a20
