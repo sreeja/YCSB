@@ -1,0 +1,10 @@
+do?op=operationc&params=param-p1
+do?op=operationc&params=param-p2
+do?op=operationc&params=param-p3
+do?op=operationc&params=param-p4
+do?op=operationc&params=param-p5
+do?op=operationc&params=param-p6
+do?op=operationc&params=param-p7
+do?op=operationc&params=param-p8
+do?op=operationc&params=param-p9
+do?op=operationc&params=param-p10
