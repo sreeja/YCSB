@@ -39,7 +39,7 @@ deleteproportion=0.49
 insertproportion=0.49
 requestdistribution=uniform
 operationcount=1000
-maxexecutiontime=7200
+maxexecutiontime=72000
 
 #	Custom Properties
 url.prefix=http://localhost:6003/
@@ -49,9 +49,9 @@ url.trace.update=workloads/sample/trace_update.txt
 url.trace.delete=workloads/sample/trace_delete.txt
 # Header must be separated by space. Other delimiters might occur as header values and hence can not be used.
 headers=Accept */* Accept-Language en-US,en;q=0.5 Content-Type application/x-www-form-urlencoded user-agent Mozilla/5.0 Connection close
-timeout.con=600
-timeout.read=600
-timeout.exec=600
+timeout.con=6000
+timeout.read=6000
+timeout.exec=6000
 # log.enable=false
 # readrecordcount=10000
 # insertrecordcount=5000
