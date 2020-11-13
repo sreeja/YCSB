@@ -28,7 +28,9 @@ db=site.ycsb.webservice.rest.RestClient
 exporter=site.ycsb.measurements.exporter.TextMeasurementsExporter
 threadcount=1
 fieldlengthdistribution=uniform
-measurementtype=hdrhistogram
+#measurementtype=hdrhistogram
+measurementtype=raw
+measurement.raw.output_file=/Users/snair/works/dislock-experiments/results/local/raw/newyork
 
 #	Workload Properties
 fieldcount=1
@@ -64,5 +66,7 @@ deletezipfconstant=0.9
 
 
 #	Measurement Properties
-hdrhistogram.percentiles=50,90,95,99
-histogram.buckets=1
+#hdrhistogram.percentiles=50,90,95,99
+# histogram.buckets=1
+#hdrhistogram.fileoutput=true
+#hdrhistogram.output.path=/Users/snair/works/dislock-experiments/results/local/hdr/newyork
