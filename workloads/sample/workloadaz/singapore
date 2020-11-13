@@ -30,7 +30,7 @@ threadcount=1
 fieldlengthdistribution=uniform
 #measurementtype=hdrhistogram
 measurementtype=raw
-measurement.raw.output_file=/Users/snair/works/dislock-experiments/results/local/raw/singapore
+measurement.raw.output_file=/data/snair/locks/raw/singapore
 
 #	Workload Properties
 fieldcount=1
