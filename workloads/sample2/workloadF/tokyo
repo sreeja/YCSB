@@ -10,12 +10,12 @@ measurement.raw.output_file=/data/snair/locks/raw/tokyo
 #	Workload Properties
 fieldcount=1
 fieldlength=2500
-insertproportion=0.5
-readproportion=0.5
+insertproportion=0.0
+readproportion=1.0
 updateproportion=0.0
 deleteproportion=0.0
 requestdistribution=uniform
-operationcount=200
+operationcount=100
 maxexecutiontime=72000
 
 #	Custom Properties
