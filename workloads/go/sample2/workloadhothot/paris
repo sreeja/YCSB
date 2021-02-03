@@ -1,0 +1,31 @@
+#	Core Properties
+workload=site.ycsb.workloads.RestWorkload
+db=site.ycsb.webservice.rest.RestClient
+exporter=site.ycsb.measurements.exporter.TextMeasurementsExporter
+threadcount=1
+fieldlengthdistribution=uniform
+measurementtype=raw
+measurement.raw.output_file=/data/snair/locks/raw/paris
+
+#	Workload Properties
+fieldcount=1
+fieldlength=2500
+insertproportion=0
+readproportion=0
+updateproportion=0
+deleteproportion=0
+requestdistribution=uniform
+operationcount=0
+maxexecutiontime=72000
+
+#	Custom Properties
+url.prefix=http://localhost:6002/
+url.trace.read=workloads/sample2/trace_read.txt
+url.trace.insert=workloads/sample2/trace_insert.txt
+url.trace.update=workloads/sample2/trace_update.txt
+url.trace.delete=workloads/sample2/trace_delete.txt
+# Header must be separated by space. Other delimiters might occur as header values and hence can not be used.
+headers=Accept */* Accept-Language en-US,en;q=0.5 Content-Type application/x-www-form-urlencoded user-agent Mozilla/5.0 Connection close
+timeout.con=6000
+timeout.read=6000
+timeout.exec=6000
